@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nutrin Group\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-26 13:11+0000\n"
+"PO-Revision-Date: 2020-07-26 13:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: front-page.php:41
+msgid "quem somos"
+msgstr "who we are"
+
+#: front-page.php:42
+msgid "faça parte"
+msgstr "be part of it"
+
+#: front-page.php:43
+msgid "contato"
+msgstr "contact"
+
+#: front-page.php:65
+msgid "It's all about people"
+msgstr "It's all about people"
+
+#: front-page.php:78
+msgid ""
+"Somos jovens da cabeça aos pés. Somos especialistas em criar produtos que "
+"transformam a vida das pessoas."
+msgstr ""
+"We are young from head to toe. We are experts in creating products that "
+"transform people's lives."
+
+#: front-page.php:80
+msgid ""
+"Acreditamos que a <strong>saúde</strong> e a <strong>beleza</strong> devem "
+"caminhar juntas, é por isso que estamos aqui para ajudar <strong>"
+"homens</strong> e <strong>mulheres</strong> a desenvolver uma relação "
+"positiva com sua aparência, ajudando-os a aumentar sua autoestima e perceber "
+"todo seu potencial."
+msgstr ""
+"We believe that <strong>health</strong> and <strong>beauty</strong> must go "
+"together, that's why we are here to help <strong>men </strong> and <strong>"
+"women</strong> to develop a positive relationship with their appearance, "
+"helping them to increase their self-esteem and realize their full potential."
+
+#: front-page.php:90
+msgid "Nós somos os primeiros a acreditar"
+msgstr "We are the first to believe"
+
+#: front-page.php:101
+msgid "nossas marcas"
+msgstr "our brands"
+
+#: front-page.php:127
+msgid "nossa fórmula"
+msgstr "our formula"
+
+#: front-page.php:135
+msgid "nossos modelo de negócio"
+msgstr "our business model"
+
+#: front-page.php:140
+msgid "Nutrin Group (DNVB)*"
+msgstr "Nutrin Group (DNVB)*"
+
+#: front-page.php:143
+msgid ""
+"<strong>*(DNVB) Digitally Native Vertical Brand na tradução, marcas "
+"verticais digitalmente nativas,</strong> são empresas que nasceram no meio "
+"digital e se relacionam diretamente com o consumidor final, controlando seu "
+"produto da fábrica até o cliente final."
+msgstr ""
+"<strong>* (DNVB) Digitally Native Vertical Brand in translation, digitally "
+"native vertical brands,</strong> are companies that were born in the digital "
+"environment and relate directly to the end consumer, controlling their "
+"product from the factory to the end customer."
+
+#: front-page.php:148
+msgid "Empresas Tradicionais"
+msgstr "Traditional Companies"
+
+#: front-page.php:157
+msgid "faça parte da nossa família"
+msgstr "be part of our family"
+
+#: front-page.php:165
+msgid ""
+"Você acredita que tem grande potencial, mas não é reconhecido? <br> Aqui é o "
+"seu lugar! <span>Envie o seu currículo para <a href=\"#\">selecao@nutrin.com."
+"br</a></span>"
+msgstr ""
+"Do you believe you have great potential, but are not recognized? <br>Here is "
+"your place! <span>Send your resume to <a href=\"#\"> selecao@nutrin.com."
+"br</a></span>"
+
+#: front-page.php:168
+msgid "Cadastre agora o seu currículo"
+msgstr "Register your resume now"
+
+#: front-page.php:174
+msgid "manda um alô"
+msgstr "say hello"
+
+#: front-page.php:201
+msgid "siga-nos:"
+msgstr "follow us:"
+
+#: front-page.php:207
+msgid "Site Oficial . <br>Todos os direitos reservados"
+msgstr "Official site . <br>All rights reserved"
+
+#. Name of the theme
+#. Author of the theme
+msgid "Nutrin Group"
+msgstr "Nutrin Group"
+
+#. Author URI of the theme
+msgid "http://www.nutringroup.com/"
+msgstr "http://www.nutringroup.com/"

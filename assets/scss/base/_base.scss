@@ -1,0 +1,45 @@
+/* ==========================================================================
+Base - begin
+========================================================================== */
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// Img Float
+img {max-width: 100%;height: auto;}
+
+html {
+    // This defines what 1rem is
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+// list
+ul, li {list-style: none;}
+
+.container{
+    @include breakpoint(sm){
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+}
+
+.shape {
+    width: 100%;
+    &-top{
+        transform: translateY(-60%);
+    }
+}
+
+/* ==========================================================================
+Base - end
+========================================================================== */
