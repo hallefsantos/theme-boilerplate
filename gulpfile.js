@@ -15,7 +15,7 @@ gulp.task('sass', function (done) {
 gulp.task('serve', function (done) {
 
     browserSync.init({
-        proxy: "localhost:8888/gummy-autocuidado",
+        proxy: "localhost:8888/",
         notify: false
     });
 
