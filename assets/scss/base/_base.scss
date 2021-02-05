@@ -26,20 +26,6 @@ body {
 // list
 ul, li {list-style: none;}
 
-.container{
-    @include breakpoint(sm){
-        padding-left: 25px;
-        padding-right: 25px;
-    }
-}
-
-.shape {
-    width: 100%;
-    &-top{
-        transform: translateY(-60%);
-    }
-}
-
 /* ==========================================================================
 Base - end
 ========================================================================== */
